@@ -1,0 +1,8 @@
+---
+layout: post
+title: 'A Post!'
+date: 2018-03-05 08:37:38 +0000
+categories: jekyll update
+---
+
+TBH, I prefer hugo. meh
